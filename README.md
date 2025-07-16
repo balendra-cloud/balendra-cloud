@@ -1,4 +1,3 @@
-````markdown name=README.md
 # Hi there, I'm Balendra Singh 👋
 
 Welcome to my GitHub profile! I'm a Software Developer transitioning into a Solution Architect role, with a passion for building scalable solutions and architectural design.
